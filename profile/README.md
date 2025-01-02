@@ -1,12 +1,6 @@
-## Hi there 👋
+# Maltra Estúdio
 
-<!--
+![Banner2](https://github.com/user-attachments/assets/fe0aab9f-5014-4273-ad4f-2957182ad34d)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Maltra Estúdio é uma iniciativa em que alunos, gamers, desenvolvedores e entusiastas se unem para se divertirem.
